@@ -108,7 +108,7 @@
   "title": "H-ANTS: Hierarchical Ant System with Insert-and-Prune Charging for Capacitated Electric Vehicle Routing"
  },
  {
-  "authors": "Giuseppe De Giacomo, Yves Lespérance, Gianmarco Parretti, Fabio Patrizi and Moshe Y Vardi",
+  "authors": "Giuseppe De Giacomo, Yves Lespérance, Gianmarco Parretti, Fabio Patrizi and Moshe Y. Vardi",
   "title": "Incremental LTLf Synthesis"
  },
  {
@@ -132,7 +132,7 @@
   "title": "SaferSAC: A Deep Reinforcement Learning Framework for Autonomous Obstacle Avoidance Navigation in UAVs"
  },
  {
-  "authors": "Augusto B Corrêa, Simon Dold and Malte Helmert",
+  "authors": "Augusto B. Corrêa, Simon Dold and Malte Helmert",
   "title": "Potential Heuristics as Real-Valued Multilinear Polynomials"
  },
  {
@@ -156,7 +156,7 @@
   "title": "Fully Packed and Ready to Go: High-Density, Rearrangement-Free, Grid-Based Storage and Retrieval"
  },
  {
-  "authors": "Nitin Gupta, Vishal Pallagani, John A Aydin and Biplav Srivastava",
+  "authors": "Nitin Gupta, Vishal Pallagani, John A. Aydin and Biplav Srivastava",
   "title": "On Sample-Efficient Generalized Planning via Learned Transition Models"
  },
  {
@@ -224,7 +224,7 @@
   "title": "Compiling Expressive Planning With Data Types"
  },
  {
-  "authors": "Nicola J Müller, Moritz Oster, Isabel Valera, Jörg Hoffmann and Timo P Gros",
+  "authors": "Nicola J. Müller, Moritz Oster, Isabel Valera, Jörg Hoffmann and Timo P. Gros",
   "title": "Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions"
  },
  {
@@ -280,7 +280,7 @@
   "title": "Subgoaling Relaxation-based Heuristics for Numeric Planning with Infinite Actions"
  },
  {
-  "authors": "Anubhav Singh, Florian Pommerening, Tanja Schindler, J Christopher Beck and Malte Helmert",
+  "authors": "Anubhav Singh, Florian Pommerening, Tanja Schindler, J. Christopher Beck and Malte Helmert",
   "title": "Operator-Counting Heuristics for Domain-Independent Dynamic Programming"
  },
  {
@@ -329,7 +329,7 @@
  },
  {
   "authors": "Taylor Paul and William Regli",
-  "title": "Worksworld: : A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows"
+  "title": "Worksworld: A Domain for Integrated Numeric Planning and Scheduling of Distributed Pipelined Workflows"
  },
  {
   "authors": "Jiajia Song, Seeun William Umboh, Malte Helmert, Nir Lipovetzky and Sebastian Sardina",
