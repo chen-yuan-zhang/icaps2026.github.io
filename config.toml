@@ -302,12 +302,12 @@ languageCode = 'en_US'
 #   url = "/program/panel"
 #   parent = "program"
 #   weight = "35"
-# [[menu.main]]
-#   identifier = "ws"
-#   name = "Workshops"
-#   parent = "program"
-#   url = "/program/ws_overview"
-#   weight = 40
+  [[menu.main]]
+    identifier = "ws"
+    name = "Workshops"
+    parent = "program"
+    url = "/program/workshops-overview"
+    weight = 40
 ######################### TUTORIALS
 # [[menu.main]]
 #    identifier = "tutorials"
