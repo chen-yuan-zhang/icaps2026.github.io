@@ -6,6 +6,11 @@ draft: false
 
 # Workshop on Planning and Reasoning about Beliefs, Goals and Intentions (PR-BGI)
 
+ICAPS 2026 Workshop <br/>
+Dublin, Ireland
+June 28-29, 2026
+
+
 ## Aim and Scope of the Workshop
 We invite submissions to the workshop on Planning and Reasoning about Beliefs, Goals, and Intentions (PR-BGI). This workshop focuses on enabling autonomous agents to effectively operate in shared environments alongside other agents and human.
 Modern autonomous systems, such as robots, delivery vehicles, and drones, must reason about the behaviour and expectations of others. In many scenarios, explicit communication is limited or unavailable, making it essential for agents to reason about others’ beliefs, goals, and intentions in order to coordinate and interact effectively.
@@ -41,11 +46,11 @@ Submission details, formatting instructions and submission link can be found in 
 
 ## Important Dates
 
-* **Paper submission deadline: TBD**
+* **Paper submission deadline: May 18, 2026 UTC-12**
 * Notification of acceptance: June 10, 2026 UTC-12
 * Camera-ready paper submissions: TBD
 
-* Workshop date: June 27/28 (**TBD**), 2026
+* Workshop date: June 28/29 (**TBD**), 2026
 
 
 
@@ -59,11 +64,10 @@ Submission details, formatting instructions and submission link can be found in 
 
 - **[Dr. Alessandro Burigana](https://a-burigana.github.io)**  
   Free University of Bozen-Bolzano, Italy 
-  Researches epistemic planning frameworks for efficient algorithms and multi-agent systems; Ph.D. (cum laude) in epistemic planning.
+
 
 - **[Dr. Francesco Fabiano](https://francescofabiano.github.io/)**  
   University of Oxford, UK
-  Works on knowledge and belief representation and neuro-symbolic AI for planning, especially in multi-agent settings; 40+ peer-reviewed publications.
 
 - **[Prof. Tim Miller](https://uqtmiller.github.io/)**  
   The University of Queensland, Australia
